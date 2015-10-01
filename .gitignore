@@ -1,0 +1,7 @@
+.idea/
+/**/*.iml
+/lib
+out/
+META-INF/
+*.pyc
+Gemfile.lock
